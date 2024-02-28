@@ -40,8 +40,7 @@ This project implements the Numerov method for solving the Schrödinger equation
 
 Execute the main script to interact with the Numerov method implementation:
 
-  ```bash
-  python numerov_method.py
+      python numerov_method.py
 
 Follow the prompts to input the necessary parameters such as start and end energy, energy step, and user input state.
 
@@ -49,11 +48,11 @@ Follow the prompts to input the necessary parameters such as start and end energ
 
 If you'd like to contribute to this project, please follow these guidelines:
 
-    Fork the repository.
-    Create a new branch: git checkout -b feature/your-feature-name.
-    Commit your changes: git commit -m 'Add some feature'.
-    Push to the branch: git push origin feature/your-feature-name.
-    Open a pull request.
+1. Fork the repository.
+2. Create a new branch: git checkout -b feature/your-feature-name.
+3. Commit your changes: git commit -m 'Add some feature'.
+4. Push to the branch: git push origin feature/your-feature-name.
+5. Open a pull request.
 
 
    
