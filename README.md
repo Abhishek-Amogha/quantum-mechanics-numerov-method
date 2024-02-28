@@ -24,3 +24,36 @@ This project implements the Numerov method for solving the Schrödinger equation
 
    ```bash
    git clone https://github.com/your-username/quantum-mechanics-numerov-method.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd quantum-mechanics-numerov-method
+
+3. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+
+## Usage
+### Run the Program
+
+Execute the main script to interact with the Numerov method implementation:
+
+  ```bash
+  python numerov_method.py
+
+Follow the prompts to input the necessary parameters such as start and end energy, energy step, and user input state.
+
+### Contributing
+
+If you'd like to contribute to this project, please follow these guidelines:
+
+    Fork the repository.
+    Create a new branch: git checkout -b feature/your-feature-name.
+    Commit your changes: git commit -m 'Add some feature'.
+    Push to the branch: git push origin feature/your-feature-name.
+    Open a pull request.
+
+
+   
